@@ -20,11 +20,6 @@ np.random.seed(SEED)
 torch.manual_seed(SEED)
 random.seed(SEED)
 
-# TODO train VGG16 pass to traditional team
-
-"""
-# TODO hyperparameter tuning -> LR, weight decay
-"""
 
 DEFAULT_HP = {
     'epochs': 5,  # number of times we're training on entire dataset
