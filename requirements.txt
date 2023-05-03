@@ -1,0 +1,11 @@
+torch # tensors, optimizers, modules 
+torchvision # ALL our models, transformations 
+numpy
+pandas 
+tqdm
+tensorboard # cli tensorbaord 
+tensorboardX # import SummaryWriter => writer.add_metrics()
+opencv-python # import cv2 -> image processing library
+matplotlib # plotting graphs, works ipynb
+seaborn # allows for different visualizations
+argparse # parse arguments from commandline

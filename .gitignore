@@ -1,0 +1,13 @@
+# editor
+/.vscode
+# pycache and nb caches
+/.ipynb_checkpoints
+*.pyc
+# ssh pwd
+secret.txt
+/logs
+/model_weights
+.idea/
+models/
+COVID-19 Radiography Database/
+runs/
