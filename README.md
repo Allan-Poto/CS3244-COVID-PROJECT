@@ -12,6 +12,6 @@ flake8 will be used as listed in requirements-dev.txt
 
 ## Project Details
 
-![Project Poster](./docs/3244-2010-0017.poster.pdf)
+[Project Poster](./docs/3244-2010-0017.poster.pdf)
 
-![Project Paper](./docs/CS3244-2010-0017.pdf)
+[Project Paper](./docs/CS3244-2010-0017.pdf)
